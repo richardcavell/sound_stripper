@@ -10,5 +10,5 @@ It takes a given file and masks the lower 2 bits of every byte.
 The input file should be 8-bit PCM monaural. The output will be
 6-bit PCM monaural.
 
-This is licensesd to you under the MIT license.
+This is licensed to you under the MIT license.
 
